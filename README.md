@@ -1,5 +1,5 @@
 
-# tindog
+# Tindog
 
 This project tells about how to make a project with the help of Bootstrap
 
